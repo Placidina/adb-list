@@ -6,5 +6,8 @@
 !
 ||*.taboola.com
 ||*.typeform.com
-##.tec--ad.tec--ad--square
-##.tec--article__footer-grid
+! www.tecmundo.com.br
+www.tecmundo.com.br##div[class^="typeform-widget"]
+www.tecmundo.com.br##div[id="product-information-embed"]
+www.tecmundo.com.br##.tec--ad.tec--ad--square
+www.tecmundo.com.br##.tec--article__footer-grid
