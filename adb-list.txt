@@ -1,0 +1,4 @@
+||*.taboola.com
+||*.typeform.com
+##.tec--ad.tec--ad--square
+##.tec--article__footer-grid
