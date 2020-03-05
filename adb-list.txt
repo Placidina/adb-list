@@ -1,3 +1,9 @@
+[Adblock Plus 3.1]
+! Version: v0.0.1
+! Title: ADB List
+! Expires: 1 days
+! Homepage: https://github.com/Placidina/adb-list
+!
 ||*.taboola.com
 ||*.typeform.com
 ##.tec--ad.tec--ad--square
