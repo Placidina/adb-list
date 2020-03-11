@@ -6,6 +6,7 @@
 !
 ||*.taboola.com
 ||*.typeform.com
+||*.tailtarget.com
 ! www.tecmundo.com.br
 www.tecmundo.com.br##div[class^="typeform-widget"]
 www.tecmundo.com.br##div[id="product-information-embed"]
